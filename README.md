@@ -1,10 +1,8 @@
 ### Hi there 👋
 
+**brunoalfred**  ✨ ✨ 
 
-It's **brunoalfred** is a ✨ _special_ ✨ 
 
-
-Here are some ideas to get you started:
 
 <!--
 
