@@ -2,6 +2,8 @@
 
 **brunoalfred**  ✨ ✨ 
 
+<script src="https://www.hackthebox.eu/badge/394113"></script>
+
 
 
 <!--
