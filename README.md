@@ -1,6 +1,20 @@
+**brunoalfred**  ✨ ✨ 
+
 ### Hi there 👋
 
-**brunoalfred**  ✨ ✨ 
+<img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
+
+I'm a Software Engineering student who is passionate about writing code, solving problems, automating stuff, hence building software while observing software development best practices such as Design patterns and Architectural patterns.
+
+- 🔭 I’m currently a SE student at Dodoma University.
+- 📚 I’m currently learning  backend web development using NodeJS, mobile app development Flutter.
+- 👯 I’m looking for a software development internship. 
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/bruno-alfred-a87ab7176/) [Gmail](mailto:alfredybruno@gmail.com)
+
+
+⭐️ From [brunoalfred](https://github.com/brunoalfred)
+Team lead at [Jasiri](https://github.com/Jasiri-Inc)
+
 
 
 
