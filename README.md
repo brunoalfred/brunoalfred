@@ -13,8 +13,8 @@ I'm a Software Engineering student who is passionate about writing code, solving
 - 💬 Ask me about Engineering of Softwares Products.
 
 
-⭐️ From [brunoalfred](https://github.com/brunoalfred)
-Team lead at [Jasiri](https://github.com/Jasiri-Inc)
+⭐️ From [brunoalfred](https://brunoalfred.me)
+Team lead at [Jasiri](https://jasiriinc.tech)
 
 
 
