@@ -6,7 +6,7 @@
 
 I'm a Software Engineering student who is passionate about writing code, solving problems, automating stuff, hence building software while observing software development best practices in Design and Architectural patterns.
 
-- 🔭 I’m currently a SE student at Dodoma University.
+- 🔭 I’m currently a SE student at University of Dodoma.
 - 📚 I’m currently learning  backend web development using NodeJS, mobile app development in Flutter.
 - 👯 I’m looking for a software development internship. 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/bruno-alfred-a87ab7176/) [Gmail](mailto:alfredybruno@gmail.com)
