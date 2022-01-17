@@ -11,7 +11,7 @@ I'm a Software Engineer who is passionate about writing code, solving problems, 
 - 📚 I’m currently learning  how to write Quality Test with excellent coverage.
 - 👯 I’m looking for  ways to hack into OSS. 
 - 📫 How to reach me: [Email](mailto:hello@brunoalfred.me), [Twitter](https://twitter.com/bruno__alfred) and [Linkedin](https://www.linkedin.com/in/bruno-alfred-a87ab7176/).
-- 💬 Ask me about Engineering [Laravel/PHP](laravel.com/) and [Flutter/Dart](https://flutter.dev/).
+- 💬 Ask me about Engineering [Laravel/PHP](laravel.com/) and [Flutter/Dart](https://flutter.dev/) ecosystem.
 - ⚡ Fun fact: Believe, commit and your shall earn. 
 
 
