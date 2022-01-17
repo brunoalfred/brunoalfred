@@ -1,4 +1,4 @@
-**brunoalfred**  ✨ ✨ 
+## **Bruno Alfred**  ✨ ✨ 
 
 ### Hi there 👋
 
