@@ -6,16 +6,16 @@
 
 I'm a Software Engineer who is passionate about writing code, solving problems, automating stuff, hence building software while observing software development best practices in Design and Architectural patterns.
 
-- 😄 Pronouns: He
+- 😄 Pronouns: He / Him
 - 🔭 I’m currently a working to improve my coding skills.
-- 📚 I’m currently learning  how to write quality Tests with excellent coverage.
+- 📚 I’m currently learning  how to what it takes to become a [THE PRAGRAMATIC PROGRAMMER](https://en.wikipedia.org/wiki/The_Pragmatic_Programmer).
 - 👯 I’m looking for  ways to hack into OSS. 
-- 📫 How to reach me: [Email](mailto:hello@brunoalfred.me), [Twitter](https://twitter.com/bruno__alfred) and [Linkedin](https://www.linkedin.com/in/bruno-alfred-a87ab7176/).
-- 💬 Ask me about Engineering [Laravel/PHP](laravel.com/) and [Flutter/Dart](https://flutter.dev/) ecosystem.
-- ⚡ Fun fact: Believe, commit and your shall earn. 
+- 📫 How to reach me: [Email](mailto:mambo@brunoalfred.me), [Twitter](https://twitter.com/bruno__alfred) and [Linkedin](https://www.linkedin.com/in/bruno-alfred-a87ab7176/).
+- 💬 Ask me about Engineering [Laravel/PHP](laravel.com/), [.Net/C#](https://dotnet.microsoft.com/en-us/), [Spring/Java](https://spring.io/), [React/Typescript](https://react.dev/)  and [Flutter/Dart](https://flutter.dev/) ecosystem.
+- ⚡ Fun fact: Believe, commit and shall earn. 
 
 
-⭐️ From [brunoalfred](https://brunoalfred.me)
+⭐️ From [brunoalfred](https://brunoalfred.com)
 Team lead at [Jasiri Labs](https://jasirilabs.com)
 
 
